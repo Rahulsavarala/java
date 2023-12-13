@@ -1,0 +1,11 @@
+import java.utli.scanner;
+
+public classInputData{
+       public static void main(string args[])
+		{
+	          Scanner reader = new Scanner(System.in)'//reader is an object
+			int  = reader.nextInt();//read input
+		  System.out.println("Enter a number =");
+		      int num=reader.nextInt();//read Input
+		System.out.println("\nEntered Number is: "+num);
+		}
